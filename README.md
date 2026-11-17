@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a QA Engineer with **4+ years of experience** in software quality assurance, specializing in **End-to-End (E2E) test automation**. I work with modern tools like **Playwright** and **Cypress**, writing tests in **TypeScript** and **JavaScript**. I'm passionate about quality, efficiency, and integrating automated testing into **CI/CD pipelines** with **GitHub Actions**. I also work with **BDD/Gherkin** approaches to align tests with business requirements.
+I'm a QA Engineer with **5+ years of experience** in software quality assurance, specializing in **End-to-End (E2E) test automation**. I work with modern tools like **Playwright** and **Cypress**, writing tests in **TypeScript** and **JavaScript**. I'm passionate about quality, efficiency, and integrating automated testing into **CI/CD pipelines** with **GitHub Actions**. I also work with **BDD/Gherkin** approaches to align tests with business requirements.
 
 - 🔭 Currently working on E2E automation with **Playwright + TypeScript**
 - 🌱 Always exploring best practices in **test architecture** and **BDD**
