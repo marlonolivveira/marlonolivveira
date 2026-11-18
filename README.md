@@ -16,7 +16,6 @@ I'm a QA Engineer with **5+ years of experience** in software quality assurance,
 
 - 🔭 Currently working on E2E automation with **Playwright + TypeScript**
 - 🌱 Always exploring best practices in **test architecture** and **BDD**
-- 📍 Based in **Tubarão, SC — Brasil**
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/in/marlon-oliveira-qa)
 
 ---
@@ -24,7 +23,7 @@ I'm a QA Engineer with **5+ years of experience** in software quality assurance,
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=playwright,typescript,javascript,python,github,githubactions,postgresql,docker,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,cypress,typescript,javascript,python,github,githubactions,postgres,docker,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
@@ -32,7 +31,7 @@ I'm a QA Engineer with **5+ years of experience** in software quality assurance,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonolivveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=marlonolivveira&theme=tokyonight" alt="GitHub Streak"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonolivveira&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
 </p>
 
